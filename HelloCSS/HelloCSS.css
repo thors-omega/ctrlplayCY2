@@ -1,0 +1,20 @@
+
+ /* mexe no elemento */
+h1{
+font-family: 'Lucida Sans';
+}
+/* mexe no class */
+
+.nav1{
+    margin: 1px;
+    background-color: rgb(150, 200, 150);  /* mexe na cor de fundo */
+}
+ /* mexe no id */
+#cabecalho{
+    display: flex;  /* autoriza o flex a mexer na tela */
+    flex-wrap: nowrap;  /* mexe se desce ou não */
+    width: ;  /* mexe na largura */
+    height: ;  /* mexe na altura */
+    justify-content: ; /* mexe na horizontal */
+    align-items: ; /* mexe na vertical */
+}
